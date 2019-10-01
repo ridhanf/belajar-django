@@ -22,6 +22,7 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse("Halo, dunia!")
 
+# method about
 def about(request):
     return HttpResponse("Ini about!")
 
