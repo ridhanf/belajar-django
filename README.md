@@ -1,0 +1,1 @@
+Repository ini merupakan kumpulan program python dalam rangka pembelajaran web framework Django. Semua materi pembelajaran di dapatkan dari Channel Youtube Kelas Terbuka.
